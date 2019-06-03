@@ -1,0 +1,6 @@
+<html>
+  <body>
+    <h1>Pagina Principal</h1>
+    <a href="./teste.php">Clique aqui para acessar a pagina teste.php</a>
+  </body>
+</html>
